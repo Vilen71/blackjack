@@ -892,11 +892,12 @@ input[type=number]:focus {
 }
 .blackjack__game_round {
   width: 12.5rem;
-  position: absolute;
-  font-size: 2.75rem;
-  bottom: -160px;
-  right: -140px;
-  color: #c1c0c0;
+      position: absolute;
+      font-size: 2.75rem;
+      bottom: 160px;
+      right: 180px;
+      opacity: 0.25;
+      color: #ffffff;
 }
 .blackjack__game_round span {
   font-size: 5.25rem;
