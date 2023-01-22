@@ -87,12 +87,13 @@
    }
    // .blackjack__game_round
    &__game_round {
-      width: 12.5rem;
+     width: 12.5rem;
       position: absolute;
-      font-size: rem(44);
-      bottom: -160px;
-      right: -140px;
-      color: #c1c0c0;
+      font-size: 2.75rem;
+      bottom: 160px;
+      right: 180px;
+      opacity: 0.25;
+      color: #ffffff;
 
       & span {
          font-size: rem(84);
