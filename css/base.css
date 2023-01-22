@@ -836,7 +836,7 @@ input[type=number]:focus {
   transition: all 0.3s ease 0s;
   position: absolute;
   left: 50%;
-  bottom: 110px;
+  top: 930px;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
 }
